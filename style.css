@@ -92,7 +92,7 @@ section p, .projects p {
 
 footer {
 	margin-top: 100px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	color: var(--primary-color);
 }
 
@@ -143,7 +143,7 @@ footer .icon {
 }
 
 
-.work-section .repo-link, .contact-section .contact-link {
+.repo-link, .contact-section .contact-link {
 	color: var(--primary-color);
 	text-decoration: none;
 	font-size: 17px;
